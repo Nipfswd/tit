@@ -1,3 +1,8 @@
+/*
+ * TIT - The information manager from hell
+ *
+ * Copyright (C) Noah Juopperi, 2026
+ */
 #include "cache.h"
 
 static int unpack(unsigned char *sha1)

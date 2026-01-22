@@ -1,3 +1,8 @@
+/*
+ * TIT - The information manager from hell
+ *
+ * Copyright (C) Noah Juopperi, 2026
+ */
 #include "cache.h"
 
 const char *sha1_file_directory = NULL;
